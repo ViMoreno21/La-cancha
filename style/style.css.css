@@ -1,0 +1,105 @@
+div {
+	display: inline-block;
+	border: 3px green;
+	width: 500px;
+	height: 500px;
+
+
+}
+
+.cesped {
+
+	background-color: #31B404;
+	width: 1000px;
+	height: 600px;
+	position: relative;
+
+}
+
+.margen {
+
+	border: 1px solid white;
+	width: 930px;
+	height: 500px;
+	position: absolute;
+	top: 45px;
+	left: 30px;
+	right: 30px;
+	bottom: -95px;
+
+}
+
+.porteria1 {
+
+	border: 1px solid white;
+	width: 120px;
+	height: 240px;
+	position: absolute;
+	top: 130px;
+	left: -1px;
+	right: 30px;
+	bottom: -95px;
+
+}
+
+.porteria2 {
+
+	border: 1px solid white;
+	width: 120px;
+	height: 240px;
+	position: absolute;
+	top: 130px;
+	right: -1px;
+	bottom: -95px;
+
+}
+
+
+.centro {
+
+	border-radius: 1000px;
+	border: 1px solid white;
+	width: 230px;
+	height: 230px;
+	position: absolute;
+	top: 150px;
+	left: 360px;
+	right: -3px;
+	bottom: -95px;
+
+
+}
+
+.bola {
+
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 120px;
+	left: 135px;
+	right: 590px;
+	bottom: 0px;
+}
+
+
+
+.bola2 {
+
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 60px;
+	left: 550px;
+	right: -3px;
+	bottom: -95px;
+}
+
+.bola3 {
+
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 350px;
+	left: 770px;
+	bottom: 70px;
+}
